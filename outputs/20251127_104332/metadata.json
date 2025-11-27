@@ -1,0 +1,15 @@
+[
+  {
+    "prompt": "dog",
+    "full_prompt": "dog, highly detailed, sharp focus, 4k, ultra quality, photorealistic, 8k uhd, ultra detailed, high dynamic range, professional photography",
+    "negative_prompt": "low quality, blurry, distorted, extra limbs, deformed, watermark, text, nsfw",
+    "style": "Photorealistic",
+    "timestamp": "20251127_104332",
+    "num_inference_steps": 15,
+    "guidance_scale": 7.5,
+    "paths": {
+      "png": "outputs\\20251127_104332\\img_01.png",
+      "jpg": "outputs\\20251127_104332\\img_01.jpg"
+    }
+  }
+]
